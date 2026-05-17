@@ -9,7 +9,7 @@ spec:
   description: Pharma microservices project
 
   sourceRepos:
-    - "https://github.com/<YOUR_GITHUB_USERNAME>/pharmops-gitops.git"
+    - "https://github.com/vijay239/pharmops-gitops.git"
     - "https://charts.helm.sh/stable"
     - "https://prometheus-community.github.io/helm-charts"
     - "https://kubernetes.github.io/ingress-nginx"
